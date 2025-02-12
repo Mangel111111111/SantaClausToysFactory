@@ -143,14 +143,6 @@ With the following command we run the tests and we will also generate a coverage
   php artisan test --coverage-html=coverage-report
 ```
 
-If everything is configured correctly, tests should pass, and the coverage report will show `100%` coverage.
-
-#### Test Summary:
-![image](https://res.cloudinary.com/del1j3jge/image/upload/v1737383833/Test_Coverage_tsoawe.png)
-
-
-#### Coverage Folder:
-![image](https://res.cloudinary.com/del1j3jge/image/upload/v1737025453/zdgkqvvq2v4wecofe9ft.png)
 
 ## 📡🌐 Christmas Toy Factory API
 
